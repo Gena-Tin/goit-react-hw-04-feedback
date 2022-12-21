@@ -1,0 +1,10 @@
+.feedbackSection {
+color: #eccd9f;
+background-color: #6f4e37;
+width: 300px;
+text-align: center;
+margin: auto;
+border-radius: 7px;
+box-shadow: 0 0 6px 0 #353232;
+padding: 5px;
+}
